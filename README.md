@@ -1,4 +1,4 @@
-## Hi there 👋
+## 박주찬 1206. 👋
 
 <!--
 **2mbforeconomy/2mbforeconomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
